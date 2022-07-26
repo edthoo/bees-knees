@@ -1,0 +1,490 @@
+[
+  {
+    "name": "Alexander",
+    "ingredients": ["Cognac", "Crème de Cacao", "Fresh Cream"],
+    "measure": ["30 ml", "30 ml", "30 ml"],
+    "method": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+    "garnish": "Sprinkle fresh ground nutmeg on top.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Alexander_Cocktail.png/375px-Alexander_Cocktail.png"
+  },
+  {
+    "name": "Americano",
+    "ingredients": ["Campari", "Sweet Red Vermouth", "Soda Water"],
+    "measure": ["30 ml", "30 ml", "A splash of"],
+    "method": "Mix the ingredients directly in an old fashioned glass filled with ice cubes. Add a splash of Soda Water. Stir gently.",
+    "garnish": "Garnish with half orange slice and a lemon zest.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Americano_cocktail_at_Nightwood_Restaurant.jpg/375px-Americano_cocktail_at_Nightwood_Restaurant.jpg"
+  },
+  {
+    "name": "Angel Face",
+    "ingredients": ["Gin", "Apricot Brandy", "Calvados"],
+    "measure": ["30 ml", "30 ml", "30 ml"],
+    "method": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IBA_Cocktail_Angel_Face_%2828068833805%29.jpg/375px-IBA_Cocktail_Angel_Face_%2828068833805%29.jpg"
+  },
+  {
+    "name": "Aviation",
+    "ingredients": ["Gin", "Maraschino Luxardo", "Fresh Lemon Juice", "Crème de Violette"],
+    "measure": ["45 ml", "15 ml", "15 ml", "1 bar spoon"],
+    "method": "Add all ingredients into a cocktail shaker. Shake with cracked ice and strain into a chilled cocktail glass.",
+    "garnish": "Optional Maraschino Cherry.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aviation_Cocktail.jpg/375px-Aviation_Cocktail.jpg"
+  },
+  {
+    "name": "Barracuda",
+    "ingredients": ["Gold Rum", "Galliano", "Fresh Pineapple Juice", "Fresh Lime Juice", "Prosecco"],
+    "measure": ["45 ml", "15 ml", "60 ml", "1 dash", "Top up with"],
+    "method": "Pour all ingredients into cocktail shaker except the Prosecco and shake well with ice. Strain into chilled highball glass filled with ice and top up with Prosecco.",
+    "garnish": "Pineapple and Cherry with optional mint sprig for additional aroma.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Barracuda_Sparkling_Cocktail.png/375px-Barracuda_Sparkling_Cocktail.png"
+  },
+  {
+    "name": "Bee's Knees",
+    "ingredients": ["Dry Gin", "Honey Syrup", "Fresh Lemon Juice", "Fresh Orange Juice"],
+    "measure": ["52.5 ml", "2 teaspoons", "22.5 ml", "22.5 ml"],
+    "method": "Stir honey with lemon and orange juices until it dissolves then add gin and shake with ice. Strain into a chilled cocktail glass.",
+    "garnish": "Optionally garnish with a lemon or orange zest.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bee%27s_Knees.jpg/330px-Bee%27s_Knees.jpg"
+  },
+  {
+    "name": "Bellini",
+    "ingredients": ["Prosecco", "White Peach Puree"],
+    "measure": ["100 ml", "50 ml"],
+    "method": "Pour peach puree into the mixing glass with ice and add the Prosecco wine. Stir gently and pour in a chilled flute glass.",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bellini_Cipriani%2C_Macaroni_Grill%2C_Dunwoody_GA.jpg/375px-Bellini_Cipriani%2C_Macaroni_Grill%2C_Dunwoody_GA.jpg"
+  },
+  {
+    "name": "Between the Sheets",
+    "ingredients": ["White Rum", "Cognac", "Triple Sec", "Fresh Lemon Juice"],
+    "measure": ["30 ml", "30 ml", "30 ml", "20 ml"],
+    "method": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Between_The_Sheets_Cocktail.jpg/375px-Between_The_Sheets_Cocktail.jpg"
+  },
+  {
+    "name": "Black Russian",
+    "ingredients": ["Vodka", "Coffee Liqueur"],
+    "measure": ["50 ml", "20 ml"],
+    "method": "Pour the ingredients into the old fashioned glass filled with ice cubes. Stir gently. White Russian : Float fresh cream on the top and stir in slowly.",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Black_Russian.jpg/375px-Black_Russian.jpg"
+  },
+  {
+    "name": "Bloody Mary",
+    "ingredients": ["Vodka", "Tomato Juice", "Fresh Lemon Juice", "Worcestershire Sauce", "Tabasco", "Celery Salt", "Pepper"],
+    "measure": ["45 ml", "90 ml", "15 ml", "2 dashes", "To taste", "To taste", "To taste"],
+    "method": "Stir gently all the ingredients in a mixing glass with ice and pour into rocks glass. If requested served with ice then pour into highball glass.",
+    "garnish": "Celery and Lemon Wedge (Optional)",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bloody_Mary_Coctail_with_celery_stalk_-_Evan_Swigart.jpg/375px-Bloody_Mary_Coctail_with_celery_stalk_-_Evan_Swigart.jpg"
+  },
+  {
+    "name": "Boulevardier",
+    "ingredients": ["Bourbon Whiskey", "Campari", "Sweet Red Vermouth"],
+    "measure": ["45 ml", "30 ml", "30 ml"],
+    "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+    "garnish": "Garnish with orange zest or optionally a lemon zest.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/VTR_Happy_Hour_-_Boulevardier.jpg/375px-VTR_Happy_Hour_-_Boulevardier.jpg"
+  },
+  {
+    "name": "Bramble",
+    "ingredients": ["Gin", "Fresh Lemon Juice", "Simple Syrup", "Crème de Mûre"],
+    "measure": ["50 ml", "25 ml", "12.5 ml", "15 ml"],
+    "method": "Pour all ingredients into a cocktail shaker except the Crème de Mûre and shake well with ice. Strain into chilled old fashioned glass filled with crushed ice then pour the blackberry liqueur (Crème de Mûre) over the top of the drink in a circular motion.",
+    "garnish": "Garnish optionally with a lemon slice and blackberries.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bramble_Cocktail1.jpg/375px-Bramble_Cocktail1.jpg"
+  },
+  {
+    "name": "Brandy Crusta",
+    "ingredients": ["Brandy", "Maraschino Luxardo", "Curacao", "Fresh Lemon Juice", "Simple Syrup", "Aromatic Bitters"],
+    "measure": ["52.5 ml", "7.5 ml", "1 bar spoon", "15 ml", "1 bar spoon", "2 dashes"],
+    "method": "Mix together all ingredients with ice cubes in a mixing glass and strain into prepared slim cocktail glass.",
+    "garnish": "Rub a slice of orange (or lemon) around the rim of the glass and dip it in pulverized white sugar so that the sugar will adhere to the edge of the glass. Carefully curling place the orange/lemon peel around the inside of the glass.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/15-09-26-RalfR-WLC-0306.jpg/375px-15-09-26-RalfR-WLC-0306.jpg"
+  },
+  {
+    "name": "Canchanchara",
+    "ingredients": ["Cuban Aguardiente", "Fresh Lime Juice", "Raw Honey", "Water"],
+    "measure": ["60 ml", "15 ml", "15 ml", "50 ml"],
+    "method": "Mix honey with water and lime juice and spread the mixture on the bottom and sides of the glass. Add cracked ice and then the rum. End by energetically stirring from bottom to top.",
+    "garnish": "Lime wedge.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Canchanchara.jpg/375px-Canchanchara.jpg"
+  },
+  {
+    "name": "Caipirinha",
+    "ingredients": ["Cachaça", "Lime", "White Cane Sugar"],
+    "measure": ["60 ml", "1 small wedge", "4 teaspoons"],
+    "method": "Place lime and sugar into a double old fashioned glass and muddle gently. Fill the glass with cracked ice and add Cachaça. Stir gently to involve ingredients. Caipiroska : Instead of Cachaça use Vodka",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caipirinha.jpg/375px-Caipirinha.jpg"
+  },
+  {
+    "name": "Casino",
+    "ingredients": ["Old Tom Gin", "Maraschino Luxardo", "Fresh Lemon Juice", "Orange Bitters"],
+    "measure": ["40 ml", "10 ml", "10 ml", "2 dashes"],
+    "method": "Pour all ingredients into cocktails shaker and shake well with ice. Strain into chilled rocks glass with ice.",
+    "garnish": "Garnish with lemon zest and a maraschino cherry.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Casino_Cocktail_%289120690108%29.jpg/375px-Casino_Cocktail_%289120690108%29.jpg"
+  },
+  {
+    "name": "Champagne Cocktail",
+    "ingredients": ["Champagne", "Cognac", "Angostura Bitters", "Grand Marnier", "Sugar Cube"],
+    "measure": ["90 ml", "10 ml", "2 dashes", "(Optional) few drops of", "1"],
+    "method": "Place the sugar cube with 2 dashes of bitters in a large Champagne glass and add the cognac. Pour gently chilled Champagne.",
+    "garnish": "Garnish with orange zest and maraschino cherry.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Champagne_cocktail_-_Portal%2C_Clerkenwell%2C_London_%284356768748%29_%28cropped%29.jpg/375px-Champagne_cocktail_-_Portal%2C_Clerkenwell%2C_London_%284356768748%29_%28cropped%29.jpg"
+  },
+  {
+    "name": "Clover Club",
+    "ingredients": ["Gin", "Raspberry Syrup", "Fresh Lemon Juice", "Egg White"],
+    "measure": ["45 ml", "15 ml", "15 ml", "1"],
+    "method": "Pour all ingredients into cocktails shaker and shake well with ice. Strain into chilled cocktail glass.",
+    "garnish": "Fresh raspberries.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cloverclub.jpg/375px-Cloverclub.jpg"
+  },
+  {
+    "name": "Corpse Reviver #2",
+    "ingredients": ["Gin", "Cointreau", "Lillet Blanc", "Fresh Lemon Juice", "Absinthe"],
+    "measure": ["30 ml", "30 ml", "30 ml", "30 ml", "1 dash"],
+    "method": "Pour all ingredients into shaker with ice. Shake well and strain in chilled cocktail glass.",
+    "garnish": "Garnish with orange zest.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Corpse_Reviver_2.jpg/375px-Corpse_Reviver_2.jpg"
+  },
+  {
+    "name": "Cosmopolitan",
+    "ingredients": ["Vodka Citron", "Cointreau", "Fresh Lime Juice", "Cranberry Juice"],
+    "measure": ["40 ml", "15 ml", "15 ml", "30 ml"],
+    "method": "Add all ingredients into a cocktail shaker filled with ice. Shake well and strain into a large cocktail glass.",
+    "garnish": "Garnish with a lemon twist.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cosmopolitan_%285076906532%29.jpg/375px-Cosmopolitan_%285076906532%29.jpg"
+  },
+  {
+    "name": "Cuba Libre",
+    "ingredients": ["White Rum", "Coca Cola", "Fresh Lime Juice"],
+    "measure": ["50 ml", "120 ml", "10 ml"],
+    "method": "Build all ingredients in a highball glass filled with ice.",
+    "garnish": "Garnish with lime wedge.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/15-09-26-RalfR-WLC-0056.jpg/375px-15-09-26-RalfR-WLC-0056.jpg"
+  },
+  {
+    "name": "Daiquiri",
+    "ingredients": ["White Rum", "Fresh Lime Juice", "White Sugar"],
+    "measure": ["60 ml", "20 ml", "2 bar spoons"],
+    "method": "In a cocktail shaker add all ingredients. Stir well to dissolve the sugar. Add ice and shake. Strain into chilled cocktail glass.",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Classic_Daiquiri_in_Cocktail_Glass.jpg/375px-Classic_Daiquiri_in_Cocktail_Glass.jpg"
+  },
+  {
+    "name": "Dark n Stormy",
+    "ingredients": ["Dark Rum", "Ginger Beer"],
+    "measure": ["60 ml", "100 ml"],
+    "method": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
+    "garnish": "Garnish with a lime wedge or slice.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/DarknStormy.jpg/375px-DarknStormy.jpg"
+  },
+  {
+    "name": "Dry Martini",
+    "ingredients": ["Gin", "Dry Vermouth"],
+    "measure": ["60 ml", "10 ml"],
+    "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+    "garnish": "Squeeze oil from lemon peel onto the drink or garnish with green olives if requested.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/15-09-26-RalfR-WLC-0084.jpg/375px-15-09-26-RalfR-WLC-0084.jpg"
+  },
+  {
+    "name": "Espresso Martini",
+    "ingredients": ["Vodka", "Kahlúa", "Simple Syrup", "Espresso"],
+    "measure": ["50 ml", "30 ml", "10 ml", "1 strong"],
+    "method": "Pour all ingredients into cocktail shaker and shake well with ice. Strain into chilled cocktail glass.",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bistrot_Bruno_Loubet%2C_Clerkenwell%2C_London_%284574785649%29.jpg/375px-Bistrot_Bruno_Loubet%2C_Clerkenwell%2C_London_%284574785649%29.jpg"
+  },
+  {
+    "name": "Fernandito",
+    "ingredients": ["Fernet Branca", "Coca Cola"],
+    "measure": ["50 ml", "Fill up with"],
+    "method": "Pour the Fernet Branca into a double old fashioned glass with ice and fill the glass up with Cola. Gently stir.",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Fernet_and_Coke_%28Fernet_con_Coca%29.jpg/375px-Fernet_and_Coke_%28Fernet_con_Coca%29.jpg"
+  },
+  {
+    "name": "French 75",
+    "ingredients": ["Gin", "Fresh Lemon Juice", "Simple Syrup", "Champagne"],
+    "measure": ["30 ml", "15 ml", "15 ml", "60 ml"],
+    "method": "Pour all the ingredients, except Champagne, into a shaker. Shake well and strain into a Champagne flute. Top up with Champagne. Stir gently.",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/French_75.jpg/375px-French_75.jpg"
+  },
+  {
+    "name": "French Connection",
+    "ingredients": ["Cognac", "Amaretto"],
+    "measure": ["35 ml", "35 ml"],
+    "method": "Pour all ingredients directly into an old fashioned glass filled with ice cubes. Stir gently.",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/French_Connection_%28cocktail%29.jpg/375px-French_Connection_%28cocktail%29.jpg"
+  },
+  {
+    "name": "French Martini",
+    "ingredients": ["Vodka", "Raspberry Liqueur", "Fresh Pineapple Juice"],
+    "measure": ["45 ml", "15 ml", "15 ml"],
+    "method": "Pour all ingredients into cocktail shaker and shake well with ice. Strain into chilled cocktail glass.",
+    "garnish": "Squeeze oil from lemon peel onto the drink.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/French_Martini.jpg/330px-French_Martini.jpg"
+  },
+  {
+    "name": "Gin Fizz",
+    "ingredients": ["Gin", "Fresh Lemon Juice", "Simple Syrup", "Soda Water"],
+    "measure": ["45 ml", "30 ml", "10 ml", "Splash of"],
+    "method": "Shake all ingredients with ice except soda water. Pour into thin tall Tumbler glass and top with a splash soda water.",
+    "garnish": "Garnish with a lemon slice. Optional lemon zest.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/15-09-26-RalfR-WLC-0032.jpg/375px-15-09-26-RalfR-WLC-0032.jpg"
+  },
+  {
+    "name": "Golden Dream",
+    "ingredients": ["Galliano", "Triple Sec", "Fresh Orange Juice", "Fresh Cream"],
+    "measure": ["20 ml", "20 ml", "20 ml", "10 ml"],
+    "method": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass.",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Godlen-Dream_Mixed_Drink_Cocktail_%282360538105%29.jpg"
+  },
+  {
+    "name": "Grasshopper",
+    "ingredients": ["Crème de Cacao", "Crème de Menthe", "Fresh Cream"],
+    "measure": ["20 ml", "20 ml", "20 ml"],
+    "method": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass.",
+    "garnish": "Optional mint leaf.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Grasshopper_cocktail.jpg/375px-Grasshopper_cocktail.jpg"
+  },
+  {
+    "name": "Hanky Panky",
+    "ingredients": ["London Dry Gin", "Sweet Red Vermouth", "Fernet Branca"],
+    "measure": ["45 ml", "45 ml", "7.5 ml"],
+    "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+    "garnish": "Orange zest.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hanky_Panky_cocktail.jpg/375px-Hanky_Panky_cocktail.jpg"
+  },
+  {
+    "name": "Hemingway Special",
+    "ingredients": ["Rum", "Grapefruit Juice", "Maraschino Luxardo", "Fresh Lime Juice"],
+    "measure": ["60 ml", "40 ml", "15 ml", "15 ml"],
+    "method": "Pour all ingredients into a shaker with ice. Shake well and strain into a large cocktail glass.",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hemingway_Daiquiri.jpg/375px-Hemingway_Daiquiri.jpg"
+  },
+  {
+    "name": "Horse's Neck",
+    "ingredients": ["Cognac", "Ginger Ale", "Angostura Bitters"],
+    "measure": ["40 ml", "120 ml", "(Optional) dash of"],
+    "method": "Pour Cognac and ginger ale directly into a highball glass with ice cubes. Stir gently. If preferred add dashes of Angostura Bitter.",
+    "garnish": "Garnish with a rind of one lemon spiral.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Horse%27s_Neck_cocktail.jpg/375px-Horse%27s_Neck_cocktail.jpg"
+  },
+  {
+    "name": "Illegal",
+    "ingredients": ["Espadin Mezcal", "Jamaica Overproof White Rum", "Falernum", "Maraschino Luxardo", "Fresh Lime Juice", "Simple Syrup", "Egg White"],
+    "measure": ["30 ml", "15 ml", "15 ml", "1 bar spoon", "22.5 ml", "15 ml", "(Optional) 1"],
+    "method": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled cocktail glass or “on the rocks” in a traditional clay or terracotta mug.",
+    "garnish": "N/A",
+    "img_url": "https://iba-world.com/wp-content/uploads/2021/02/IBA-NE-09-Illegal.jpg"
+  },
+  {
+    "name": "Irish Coffee",
+    "ingredients": ["Irish Whiskey", "Hot Coffee", "Fresh Cream", "White Sugar"],
+    "measure": ["50 ml", "120 ml", "50 ml", "1 teaspoon"],
+    "method": "Warm black coffee is poured into a pre-heated Irish coffee glass. Whiskey and at least one teaspoon of sugar is added and stirred until dissolved. Fresh thick chilled cream is carefully poured over the back of a spoon held just above the surface of the coffee. The layer of cream will float on the coffee without mixing. Plain sugar can be replaced with sugar syrup",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Irish_coffee_glass.jpg/375px-Irish_coffee_glass.jpg"
+  },
+  {
+    "name": "John Collins",
+    "ingredients": ["Gin", "Fresh Lemon Juice", "Simple Syrup", "Soda Water"],
+    "measure": ["45 ml", "30 ml", "15 ml", "60 ml"],
+    "method": "Pour all ingredients directly into a highball filled with ice. Stir gently. Use ‘Old Tom’ Gin for Tom Collins.",
+    "garnish": "Garnish with a lemon slice and maraschino cherry.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/IBA_Cocktail_John_Collins_%2829221732881%29.jpg/375px-IBA_Cocktail_John_Collins_%2829221732881%29.jpg"
+  },
+  {
+    "name": "Kir",
+    "ingredients": ["Dry White Wine", "Crème de Cassis"],
+    "measure": ["90 ml", "10 ml"],
+    "method": "Pour Crème de Cassis into glass, top up with white wine. Kir Royal : Use Champagne instead of white wine",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kir_cocktail.jpg/375px-Kir_cocktail.jpg"
+  },
+  {
+    "name": "Last Word",
+    "ingredients": ["Gin", "Green Chartreuse", "Maraschino Luxardo", "Fresh Lime Juice"],
+    "measure": ["22.5 ml", "22.5 ml", "22.5 ml", "22.5 ml"],
+    "method": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Last_Word_cocktail_raised.jpg/375px-The_Last_Word_cocktail_raised.jpg"
+  },
+  {
+    "name": "Lemon Drop Martini",
+    "ingredients": ["Vodka Citron", "Triple Sec", "Fresh Lemon Juice"],
+    "measure": ["30 ml", "20 ml", "15 ml"],
+    "method": "Pour all ingredients into a shaker with ice. Shake well and strain into a large cocktail glass.",
+    "garnish": "Garnish with sugar rim around the glass.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lemon_Drop_cocktails.jpg/375px-Lemon_Drop_cocktails.jpg"
+  },
+  {
+    "name": "Long Island Ice Tea",
+    "ingredients": ["Vodka", "Tequila", "White Rum", "Gin", "Cointreau", "Fresh Lemon Juice", "Simple Syrup", "Coca Cola"],
+    "measure": ["15 ml", "15 ml", "15 ml", "15 ml", "15 ml", "30 ml", "20 ml", "Top with"],
+    "method": "Add all ingredients into a highball glass filled with ice. Stir gently.",
+    "garnish": "Optional lemon slice.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Long_Island_Iced_Teas.jpg/375px-Long_Island_Iced_Teas.jpg"
+  },
+  {
+    "name": "Mai Tai",
+    "ingredients": ["Jamaican Rum", "Molasses Rhum", "Curaçao", "Orgeat Syrup", "Fresh Lime Juice", "Simple Syrup"],
+    "measure": ["30 ml", "30 ml", "15 ml", "15 ml", "30 ml", "7.5 ml"],
+    "method": "Add all ingredients into a shaker with ice. Shake and pour into a double rocks glass or a highball glass.",
+    "garnish": "Garnish with pineapple spear, mint leaves, and lime peel.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mai_Tai_Trader_Vics_Emeryville.jpg/375px-Mai_Tai_Trader_Vics_Emeryville.jpg"
+  },
+  {
+    "name": "Manhattan",
+    "ingredients": ["Rye Whiskey", "Sweet Red Vermouth", "Angostura Bitters"],
+    "measure": ["50 ml", "20 ml", "1 dash"],
+    "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+    "garnish": "Garnish with a cocktail cherry.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/A_Manhattan.jpg/255px-A_Manhattan.jpg"
+  },
+  {
+    "name": "Margarita",
+    "ingredients": ["Tequila", "Triple Sec", "Fresh Lime Juice"],
+    "measure": ["50 ml", "20 ml", "15 ml"],
+    "method": "Add all ingredients into a shaker with ice. Shake and strain into a chilled cocktail glass",
+    "garnish": "Optional half salt rim.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MargaritaReal.jpg/375px-MargaritaReal.jpg"
+  },
+  {
+    "name": "Martinez",
+    "ingredients": ["London Dry Gin", "Sweet Red Vermouth", "Maraschino Liqueur", "Orange Bitters"],
+    "measure": ["45 ml", "45 ml", "1 bar spoon", "2 dashes"],
+    "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+    "garnish": "Lemon zest.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Martinez_Cocktail.jpg/375px-Martinez_Cocktail.jpg"
+  },
+  {
+    "name": "Mary Pickford",
+    "ingredients": ["White Rum", "Fresh Pineapple Juice", "Maraschino Luxardo", "Grenadine Syrup"],
+    "measure": ["45 ml", "45 ml", "7.5 ml", "5 ml"],
+    "method": "Pour all ingredients into a cocktail shaker and shake well with ice. Strain into a chilled cocktail glass.",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mary_Pickford_Cocktail.jpg/375px-Mary_Pickford_Cocktail.jpg"
+  },
+  {
+    "name": "Mimosa",
+    "ingredients": ["Fresh Orange Juice", "Prosecco"],
+    "measure": ["75 ml", "75 ml"],
+    "method": "Pour orange juice into a flute glass and gently pour the sparkling wine. Stir gently.",
+    "garnish": "Garnish with an orange twist (optional).",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pool-side_Mimosas_at_The_Standard_Hotel.jpg/375px-Pool-side_Mimosas_at_The_Standard_Hotel.jpg"
+  },
+  {
+    "name": "Mint Julep",
+    "ingredients": ["Bourbon Whiskey", "Mint Sprigs", "White Sugar", "Water"],
+    "measure": ["60 ml", "4 fresh", "1 teaspoon", "2 teaspoons"],
+    "method": "In Julep Stainless Steel Cup gently muddle the mint with sugar and water. Fill the glass with cracked ice, add the Bourbon and stir well until the cup frosts.",
+    "garnish": "Garnish with a mint sprig.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mint_Julep_im_Silberbecher.jpg/375px-Mint_Julep_im_Silberbecher.jpg"
+  },
+  {
+    "name": "Mojito",
+    "ingredients": ["White Rum", "Fresh Lime Juice", "Mint Sprig", "White Cane Sugar", "Soda Water"],
+    "measure": ["45 ml", "20 ml", "6 fresh", "2 teaspoons", "Top with"],
+    "method": "Mix mint springs with sugar and lime juice. Add splash of soda water and fill the glass with ice. Pour the rum and top with soda water. Light stir to involve all ingredients.",
+    "garnish": "Garnish with sprigs of mint and slice of lime.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/MojitoReydelmojito.jpg/330px-MojitoReydelmojito.jpg"
+  },
+  {
+    "name": "Monkey Gland",
+    "ingredients": ["Dry Gin", "Fresh Orange Juice", "Absinthe", "Grandine Syrup"],
+    "measure": ["45 ml", "45 ml", "1 tablespoon", "1 tablespoon"],
+    "method": "Add all ingredients into a shaker with ice. Shake and strain into a chilled cocktail glass",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Monkey_Gland_%2811677703163%29.jpg/375px-Monkey_Gland_%2811677703163%29.jpg"
+  },
+  {
+    "name": "Moscow Mule",
+    "ingredients": ["Vodka", "Ginger Beer", "Fresh Lime Juice"],
+    "measure": ["45 ml", "120 ml", "10 ml"],
+    "method": "In a Mule Cup or rocks glass, combine the vodka and ginger beer. Add lime juice and gently stir to involve all ingredients.",
+    "garnish": "Garnish with a lime slice.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Moscow_Mule_at_Rye%2C_San_Francisco.jpg/375px-Moscow_Mule_at_Rye%2C_San_Francisco.jpg"
+  },
+  {
+    "name": "Naked and Famous",
+    "ingredients": ["Mezcal", "Yellow Chartreuse", "Aperol", "Fresh Lime Juice"],
+    "measure": ["22.5 ml", "22.5 ml", "22.5 ml", "22.5 ml"],
+    "method": "Pour all ingredients into a shaker with ice. Shake well and strain into a large cocktail glass.",
+    "garnish": "N/A",
+    "img_url": "https://www.liquor.com/thmb/Dov6aroPs67ya9HuoFs_7wl370M=/440x0/filters:no_upscale():max_bytes(150000):strip_icc()/naked-and-famous-720x720-primary-404c2eb76f954670b65ce03cdaefa825.jpg"
+  },
+  {
+    "name": "Negroni",
+    "ingredients": ["Gin", "Campari", "Sweet Red Vermouth"],
+    "measure": ["30 ml", "30 ml", "30 ml"],
+    "method": "Pour all ingredients directly into a chilled old fashioned glass filled with ice, Stir gently.",
+    "garnish": "Garnish with a half orange slice.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Negroni_served_in_Vancouver_BC.jpg/375px-Negroni_served_in_Vancouver_BC.jpg"
+  },
+  {
+    "name": "New York Sour",
+    "ingredients": ["Rye Whiskey", "Simple Syrup", "Fresh Lemon Juice", "Egg White", "Red Wine"],
+    "measure": ["60 ml", "22.5 ml", "30 ml", "1", "15 ml"],
+    "method": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled rocks glass filled with ice. Float the wine on top.",
+    "garnish": "Garnish with lemon or orange zest with cherry.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/New_York_Sour.jpg/375px-New_York_Sour.jpg"
+  },
+  {
+    "name": "Old Cuban",
+    "ingredients": ["Mint Sprig", "Aged Rum", "Fresh Lime Juice", "Simple Syrup", "Angostura Bitters", "Champagne"],
+    "measure": ["6/8 fresh", "45 ml", "22.5 ml", "30 ml", "2 dashes", "60 ml"],
+    "method": "Pour all ingredients into cocktail shaker except the wine and shake well with ice. Strain into chilled elegant cocktail glass. Top up with the sparkling wine.",
+    "garnish": "Garnish with mint sprigs.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/VTR_-_The_%22Old_Cuban%22_%286038903420%29.jpg/375px-VTR_-_The_%22Old_Cuban%22_%286038903420%29.jpg"
+  },
+  {
+    "name": "Old Fashioned",
+    "ingredients": ["Bourbon Whiskey", "Sugar Cube", "Angostura Bitters", "Water"],
+    "measure": ["45 ml", "1", "Few dashes", "Few dashes"],
+    "method": "Place sugar cube in old fashioned glass and saturate with bitter add few dashes of plain water. Muddle until dissolved. Fill the glass with ice cubes and add whiskey. Stir gently.",
+    "garnish": "Garnish with an orange slice or zest and a cocktail cherry.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Whiskey_Old_Fashioned1.jpg/375px-Whiskey_Old_Fashioned1.jpg"
+  },
+  {
+    "name": "Paloma",
+    "ingredients": ["Tequila", "Fresh Lime Juice", "Salt", "Pink Grapefruit Soda"],
+    "measure": ["50 ml", "5 ml", "A pinch of", "100 ml"],
+    "method": "Pour the tequila into a highball glass and squeeze the lime juice. Add ice and salt. Fill up pink grapefruit soda. Stir gently.",
+    "garnish": "Garnish with a slice of lime.",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TequilaPaloma.JPG/375px-TequilaPaloma.JPG"
+  },
+  {
+    "name": "Paper Plane",
+    "ingredients": ["Bourbon Whiskey", "Amaro Nonino", "Aperol", "Fresh Lemon Juice"],
+    "measure": ["30 ml", "30 ml", "30 ml", "30 ml"],
+    "method": "Pour all ingredients into a shaker with ice. Shake well and strain into a large cocktail glass.",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Taub_Family_Outpost_-_June_11_2021_-_Sarah_Stierch_02.jpg/375px-Taub_Family_Outpost_-_June_11_2021_-_Sarah_Stierch_02.jpg"
+  },
+  {
+    "name": "Paradise",
+    "ingredients": ["Gin", "Apricot Brandy", "Fresh Orange Juice"],
+    "measure": ["30 ml", "20 ml", "15 ml"],
+    "method": "Pour all ingredients into a shaker with ice. Shake well and strain into a large cocktail glass.",
+    "garnish": "N/A",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Paradise_cocktail.jpg/375px-Paradise_cocktail.jpg"
+  },
+  {
+    "name": "",
+    "ingredients": [],
+    "measure": [],
+    "method": "",
+    "garnish": "",
+    "img_url": ""
+  }
+]
