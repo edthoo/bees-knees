@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bees-knees/static/css/main.6f0a3799.css",
-    "main.js": "/bees-knees/static/js/main.012630ec.js",
+    "main.css": "/bees-knees/static/css/main.92c3c725.css",
+    "main.js": "/bees-knees/static/js/main.ba3650fb.js",
     "index.html": "/bees-knees/index.html",
-    "main.6f0a3799.css.map": "/bees-knees/static/css/main.6f0a3799.css.map",
-    "main.012630ec.js.map": "/bees-knees/static/js/main.012630ec.js.map"
+    "main.92c3c725.css.map": "/bees-knees/static/css/main.92c3c725.css.map",
+    "main.ba3650fb.js.map": "/bees-knees/static/js/main.ba3650fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f0a3799.css",
-    "static/js/main.012630ec.js"
+    "static/css/main.92c3c725.css",
+    "static/js/main.ba3650fb.js"
   ]
 }
